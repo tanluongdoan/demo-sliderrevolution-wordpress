@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002- install-plugin .md",
+                "file": "003- tạo New Blank Module.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002- install-plugin"
+              "title": "003- tạo New Blank Module"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002- install-plugin .md",
+                "file": "003- tạo New Blank Module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 002- install-plugin"
+              "title": "Backlinks for 003- tạo New Blank Module"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002- install-plugin .md",
+                "file": "003- tạo New Blank Module.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 002- install-plugin"
+              "title": "Outgoing links from 003- tạo New Blank Module"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002- install-plugin .md",
+                "file": "003- tạo New Blank Module.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 002- install-plugin"
+              "title": "Outline of 003- tạo New Blank Module"
             }
           }
         ]
@@ -184,6 +184,7 @@
   },
   "active": "a09a1491116a01e4",
   "lastOpenFiles": [
+    "002- install-plugin.md",
     "003- tạo New Blank Module.md",
     "20250310155221.png",
     "20250310155152.png",
@@ -192,7 +193,6 @@
     "20250310154700.png",
     "20250310154559.png",
     "Pasted.md",
-    "002- install-plugin .md",
     "001-login.md",
     "20250310154556.png"
   ]
