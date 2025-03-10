@@ -35,8 +35,7 @@
               "title": "003- tạo New Blank Module"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003- tạo New Blank Module.md",
+                "file": "002- install-plugin .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 003- tạo New Blank Module"
+              "title": "Backlinks for 002- install-plugin"
             }
           },
           {
@@ -128,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003- tạo New Blank Module.md",
+                "file": "002- install-plugin .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 003- tạo New Blank Module"
+              "title": "Outgoing links from 002- install-plugin"
             }
           },
           {
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003- tạo New Blank Module.md",
+                "file": "002- install-plugin .md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 003- tạo New Blank Module"
+              "title": "Outline of 002- install-plugin"
             }
           }
         ]
@@ -183,17 +182,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f181863fbeb61e6b",
+  "active": "a09a1491116a01e4",
   "lastOpenFiles": [
-    "002- install-plugin .md",
     "003- tạo New Blank Module.md",
+    "002- install-plugin .md",
+    "001-login.md",
+    "Pasted.md",
     "Pasted image 20250310155221.png",
     "Pasted image 20250310155152.png",
     "Pasted image 20250310154835.png",
     "Pasted image 20250310154744.png",
     "Pasted image 20250310154700.png",
     "Pasted image 20250310154559.png",
-    "Pasted image 20250310154556.png",
-    "001-login.md"
+    "Pasted image 20250310154556.png"
   ]
 }

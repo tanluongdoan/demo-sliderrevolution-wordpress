@@ -1,5 +1,5 @@
 1. Giải nén thư mục 
-![[./Pasted image 20250310154559.png]](./Pasted image 20250310154559.png)
+![[Pasted image 20250310154559.png]]
 2. copy bỏ vào thư mục plugin wordpress
 ![[./Pasted image 20250310154700.png]]
 3. sao đó bấm active nó lên
