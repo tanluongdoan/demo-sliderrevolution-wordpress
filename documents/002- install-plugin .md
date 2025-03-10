@@ -7,3 +7,4 @@
 4. Rồi nó sẽ hiện thêm cái này 
 ![[./Pasted image 20250310154835.png]]
 Rồi mình sửa dụng thôi
+![Pasted image 20250310154559.png](./Pasted image 20250310154559.png)
